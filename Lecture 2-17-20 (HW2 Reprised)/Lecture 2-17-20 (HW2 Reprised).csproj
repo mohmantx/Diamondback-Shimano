@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>Lecture_2_17_20__HW2_Reprised_</RootNamespace>
+  </PropertyGroup>
+
+</Project>
